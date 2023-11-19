@@ -71,4 +71,8 @@ return {
     "Charged Blow",
     "Hyper Body",
     "MythicStability",
+    --Vanguard
+    "Puncture",
+    "Blade Smash",
+    "Azure",
 }
